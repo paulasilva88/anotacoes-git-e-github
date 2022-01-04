@@ -1,4 +1,4 @@
-# Anotacoes git e github
+# Anotacoes git e github 
  Anotações do curso Git e Git Hub do Canal do Youtube Curso em Vídeo
 
 
@@ -6,7 +6,7 @@
     
 ---
 
-## Aula 01 - O que é Git?
+## Aula 01 - O que é Git? O que é versionamento?
 
 - Git
     - Software de Controle de Versões
@@ -137,7 +137,7 @@
 
 ---
 
-### Aula 04 - Instalações e configurações importantes
+## Aula 04 - Instalações e configurações importantes
 
 Aula Prática. 
 
@@ -147,20 +147,20 @@ Aula Prática.
 
 ---
 
-### Aula 05 - Criando o primeiro Repositório
+## Aula 05 - Criando o primeiro Repositório
 
 - Aula prática
 - Utilizando o GitHub Desktop sincronizado com o Git e o Visual Studio Code
 
 ---
 
-### Aula 06 - Instalando GitHub Desktop no Linux
+## Aula 06 - Instalando GitHub Desktop no Linux
 
 - Aula prática não aplicada, já que utilizo o Sistema Operacional Windows
 
 ---
 
-### Aula 07 - Clonando um repositório
+## Aula 07 - Clonando um repositório
 
 - Aula Prática
 - Sempre que iniciar um dia de trabalho:
@@ -169,7 +169,7 @@ Aula Prática.
 
 ---
 
-### Aula 08 - Versionando seus projetos antigos
+## Aula 08 - Versionando seus projetos antigos
 
 - Aula prática
 - Nessa aula é apresentado como pode-se de versionar repositórios com projetos antigos.
@@ -177,7 +177,7 @@ Aula Prática.
 
 ---
 
-### Aula 09 - Você sabe usar Issues?
+## Aula 09 - Você sabe usar Issues?
 
 - Issues ⇒ Problema.
     - Utilizada quando não se sabe o que houve de errado com um programa, e avisa-se aos desenvolvedores.
@@ -200,7 +200,7 @@ Aula Prática.
         - Git e GitHub com comandos
 - GitHub é compatível com MarkDown
 
-## Markdown
+### Markdown
 
 ---
 
